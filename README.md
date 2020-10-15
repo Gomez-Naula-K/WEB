@@ -1,2 +1,5 @@
 # WEB
-![Página principal](https://WEB/WEB GÓMEZ/PÁGINA WEB/index.html)
+
+<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
